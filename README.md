@@ -1,2 +1,2 @@
 # SubLink
-This is for VPN links
+This is for Sub Links
